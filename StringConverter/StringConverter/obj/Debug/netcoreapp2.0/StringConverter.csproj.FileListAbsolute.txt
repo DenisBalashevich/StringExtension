@@ -1,0 +1,9 @@
+D:\Mentoring\Day 2\StringConverter\StringConverter\bin\Debug\netcoreapp2.0\StringConverter.deps.json
+D:\Mentoring\Day 2\StringConverter\StringConverter\bin\Debug\netcoreapp2.0\StringConverter.dll
+D:\Mentoring\Day 2\StringConverter\StringConverter\bin\Debug\netcoreapp2.0\StringConverter.pdb
+D:\Mentoring\Day 2\StringConverter\StringConverter\obj\Debug\netcoreapp2.0\StringConverter.csprojResolveAssemblyReference.cache
+D:\Mentoring\Day 2\StringConverter\StringConverter\obj\Debug\netcoreapp2.0\StringConverter.csproj.CoreCompileInputs.cache
+D:\Mentoring\Day 2\StringConverter\StringConverter\obj\Debug\netcoreapp2.0\StringConverter.AssemblyInfoInputs.cache
+D:\Mentoring\Day 2\StringConverter\StringConverter\obj\Debug\netcoreapp2.0\StringConverter.AssemblyInfo.cs
+D:\Mentoring\Day 2\StringConverter\StringConverter\obj\Debug\netcoreapp2.0\StringConverter.dll
+D:\Mentoring\Day 2\StringConverter\StringConverter\obj\Debug\netcoreapp2.0\StringConverter.pdb

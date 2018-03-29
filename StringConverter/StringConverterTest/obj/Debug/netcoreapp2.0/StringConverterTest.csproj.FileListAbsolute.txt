@@ -1,0 +1,16 @@
+D:\Mentoring\Day 2\StringConverter\StringConverterTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Mentoring\Day 2\StringConverter\StringConverterTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Mentoring\Day 2\StringConverter\StringConverterTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Mentoring\Day 2\StringConverter\StringConverterTest\bin\Debug\netcoreapp2.0\StringConverterTest.deps.json
+D:\Mentoring\Day 2\StringConverter\StringConverterTest\bin\Debug\netcoreapp2.0\StringConverterTest.runtimeconfig.json
+D:\Mentoring\Day 2\StringConverter\StringConverterTest\bin\Debug\netcoreapp2.0\StringConverterTest.runtimeconfig.dev.json
+D:\Mentoring\Day 2\StringConverter\StringConverterTest\bin\Debug\netcoreapp2.0\StringConverterTest.dll
+D:\Mentoring\Day 2\StringConverter\StringConverterTest\bin\Debug\netcoreapp2.0\StringConverterTest.pdb
+D:\Mentoring\Day 2\StringConverter\StringConverterTest\bin\Debug\netcoreapp2.0\StringConverter.dll
+D:\Mentoring\Day 2\StringConverter\StringConverterTest\bin\Debug\netcoreapp2.0\StringConverter.pdb
+D:\Mentoring\Day 2\StringConverter\StringConverterTest\obj\Debug\netcoreapp2.0\StringConverterTest.csprojResolveAssemblyReference.cache
+D:\Mentoring\Day 2\StringConverter\StringConverterTest\obj\Debug\netcoreapp2.0\StringConverterTest.csproj.CoreCompileInputs.cache
+D:\Mentoring\Day 2\StringConverter\StringConverterTest\obj\Debug\netcoreapp2.0\StringConverterTest.AssemblyInfoInputs.cache
+D:\Mentoring\Day 2\StringConverter\StringConverterTest\obj\Debug\netcoreapp2.0\StringConverterTest.AssemblyInfo.cs
+D:\Mentoring\Day 2\StringConverter\StringConverterTest\obj\Debug\netcoreapp2.0\StringConverterTest.dll
+D:\Mentoring\Day 2\StringConverter\StringConverterTest\obj\Debug\netcoreapp2.0\StringConverterTest.pdb
